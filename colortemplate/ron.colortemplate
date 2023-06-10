@@ -1,3 +1,4 @@
+Neovim: yes
 ; vim: ft=colortemplate fdm=marker cc=23,40,58 vsts=22,17,18,4 et ts=2 sw=2
 
 ; Information {{{
